@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "VBuildCantiere.aternos.me",
+    "port": 50464,
     "version": "",
     "try-creative": false
   },

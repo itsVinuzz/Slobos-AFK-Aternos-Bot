@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "VBuildCantiere.aternos.me",
-    "port": 50464,
+    "port":50464,
     "version": "",
     "try-creative": false
   },
